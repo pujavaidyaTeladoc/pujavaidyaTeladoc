@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Puja Vaidya
-- 👀 I’m interested in NLP/ML, product/soln design
-- 🌱 I’m currently learning python
+- 👀 I’m interested in product/soln design
 - 💞️ I’m looking to collaborate on Messaging
 - 📫 Reach me at puja.vaidya@teladochealth.com
 
